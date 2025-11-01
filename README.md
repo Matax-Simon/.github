@@ -1,3 +1,2 @@
-# .github
+# Matax Simon serveri
 
-## test
